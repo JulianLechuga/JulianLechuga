@@ -11,7 +11,6 @@
   <img src="https://komarev.com/ghpvc/?username=JulianLechuga&style=flat-square&color=blue" alt=""/>
 </div>
 
-
     const JulianLechuga = {
       pronouns: 'He' || 'Him',
       code: {
