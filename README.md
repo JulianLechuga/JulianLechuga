@@ -37,7 +37,7 @@
 
 - :seedling: I love reading about new technologies and finding out new ways to improve every day.
 
-- :zap: In my free time, I enjoy playing videogames, reading or researching some interesting topic.
+- :zap: In my free time, I enjoy playing videogames, reading or researching interesting topics related to medicine and science.
 
 - :mailbox: Find me here: [![Linkedin Badge](https://img.shields.io/badge/-Julian-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/julian-lechuga)
 
