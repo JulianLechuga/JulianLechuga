@@ -7,7 +7,7 @@
       <br/> <br/>
       I consider myself an organized and efficient person to perform the tasks that are presented to me, facing them in a methodical way and analyzing the best possible ways to solve it.
 </h4>
-    <h5> You can reach through email at: <a> julianlechuga12@gmail.com </a></h5>
+    <h5> You can reach through email at: <a href="julianlechuga12@gmail.com"> julianlechuga12@gmail.com </a></h5>
     <h5> Or via LinkedIn here:</h5>
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </div>
