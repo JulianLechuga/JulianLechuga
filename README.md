@@ -3,6 +3,10 @@
   <div id="badges">
   <a href="https://www.linkedin.com/in/julian-lechuga/">
     <h1> Hi there, I´m Julian 👋 </h1> 
+    <h4>
+      I'm a Fullstack Developer from Argentina <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> just graduating from Henry's astonishingly intensive bootcamp, mainly focusing on technologies such as JavaScript, React, Redux, HTML,  CSS, Express, etc.
+      I consider myself an organized and efficient person to perform the tasks that are presented to me, facing them in a methodical way and analyzing the best possible ways to solve it.
+</h4>
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
@@ -30,13 +34,11 @@
 
 ---
 
-### :man_technologist: About Me :
+### :man_technologist: Some additional details :
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Argentina.
+- :telescope: I’ve just finished my most ambitious project with my team at Henry´s bootcamp, ReMusic. It consists of a new social network app that allows it’s users to share their favourite songs and artists with their friends. It’s biggest feature is a live chat where users can comunnicate with their friends and followers at will.
 
-- :telescope: I’m working as a Developer and contributing to frontend and backend for building web applications.
-
-- :seedling: Exploring new technologies and ways to improve everyday.
+- :seedling: I love reading about new technologies and finding out new ways to improve every day.
 
 - :zap: In my free time, I enjoy playing videogames, reading or researching some interesting topic.
 
