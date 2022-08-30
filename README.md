@@ -1,13 +1,12 @@
-### Hi there, I´m Julian 👋
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="270"/>
   <div id="badges">
   <a href="https://www.linkedin.com/in/julian-lechuga/">
+    <h1> Hi there, I´m Julian 👋 </h1> 
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <div>
-    <h1> Full Stack Developer 🇦🇷 </h1> 
+    <h1> Full Stack Developer </h1> 
    </div>
 </div>
   <img src="https://komarev.com/ghpvc/?username=JulianLechuga&style=flat-square&color=blue" alt=""/>
