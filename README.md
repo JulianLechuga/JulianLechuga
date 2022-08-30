@@ -1,7 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="270"/>
   <div id="badges">
-  <a href="https://www.linkedin.com/in/julian-lechuga/">
     <h1> Hi there, I´m Julian 👋 </h1> 
     <h4>
       I'm a Fullstack Developer from Argentina <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  just graduating from Henry's astonishingly intensive bootcamp, mainly focusing on technologies such as JavaScript, React, Redux, HTML,  CSS, Express, etc.
@@ -11,7 +10,6 @@
     <h5> You can reach through email at: <a> julianlechuga12@gmail.com </a></h5>
     <h5> Or via LinkedIn here:</h5>
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
 </div>
   <img src="https://komarev.com/ghpvc/?username=JulianLechuga&style=flat-square&color=blue" alt=""/>
 </div>
