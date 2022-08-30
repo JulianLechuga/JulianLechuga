@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/julian-lechuga/">
     <h1> Hi there, I´m Julian 👋 </h1> 
     <h4>
-      I'm a Fullstack Developer from Argentina <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> just graduating from Henry's astonishingly intensive bootcamp, mainly focusing on technologies such as JavaScript, React, Redux, HTML,  CSS, Express, etc.
+      I'm a Fullstack Developer from Argentina <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  just graduating from Henry's astonishingly intensive bootcamp, mainly focusing on technologies such as JavaScript, React, Redux, HTML,  CSS, Express, etc.
       I consider myself an organized and efficient person to perform the tasks that are presented to me, facing them in a methodical way and analyzing the best possible ways to solve it.
 </h4>
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
