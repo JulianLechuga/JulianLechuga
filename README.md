@@ -40,7 +40,7 @@
 
 - :zap: In my free time, I enjoy playing videogames, reading or researching some interesting topic.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Julian-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/julian-lechuga)
+- :mailbox: Find me here: [![Linkedin Badge](https://img.shields.io/badge/-Julian-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/julian-lechuga)
 
 ---
 
