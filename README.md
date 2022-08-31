@@ -45,9 +45,9 @@
 
 ### CV : 
 
-- <a> English </a>
+- <a href="https://drive.google.com/file/d/1XMr4p_4T8eRYv67JYSmOmUcm9yGmHEKh/view?usp=sharing"> English </a>
 
-- <a> Español </a>
+- <a href="https://drive.google.com/file/d/1LiHCsAz5fErWpz3cphuZhnt45pqsaMGv/view?usp=sharing"> Español </a>
 
 ---
 
