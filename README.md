@@ -43,7 +43,7 @@
 
 ---
 
-### CV : 
+### CV 📄: 
 
 - <a href="https://drive.google.com/file/d/1XMr4p_4T8eRYv67JYSmOmUcm9yGmHEKh/view?usp=sharing"> English </a>
 
