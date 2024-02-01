@@ -33,7 +33,9 @@
 
 ### :man_technologist: Some additional details :
 
-- :telescope: I’ve just finished my most ambitious project with my team at Henry´s bootcamp, ReMusic. It consists of a new social network app that allows it’s users to share their favourite songs and artists with their friends. It’s biggest feature is a live chat where users can comunnicate with their friends and followers at will.
+- :telescope: Before joining Henry's bootcamp, I had already accrued two years of experience as a developer. Since then, I've continued to expand my expertise and have been involved in several ambitious projects, including ReMusic, a groundbreaking social network app developed during my time at Henry's bootcamp. 
+
+- 💪: With a focus on technologies such as TypeScript, JavaScript, Node.js, React, PostgreSQL, Sequelize, AWS, HTML5, and CSS, I've demonstrated proficiency in various aspects of application development. Notably, my experience has fostered a deep understanding of agile methodologies, a capacity for rapid learning, and strong collaborative skills essential for successful app development.
 
 - :seedling: I love reading about new technologies and finding out new ways to improve every day.
 
