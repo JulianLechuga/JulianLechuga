@@ -137,11 +137,9 @@ He desarrollado recientemente una **colección de sitios web optimizados** e ind
 ### 🔥 My Stats :
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JulianLechuga&show_icons=true&theme=dark" alt="Julian's GitHub stats" />
   <br/>
   <br/>
   <img src="http://github-readme-streak-stats.herokuapp.com?user=JulianLechuga&theme=dark&background=000000" alt="GitHub Streak" />
   <br/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianLechuga&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
 </div>
