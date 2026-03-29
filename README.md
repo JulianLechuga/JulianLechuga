@@ -4,7 +4,7 @@
     <h1> Hi there, I'm Julian 👋 </h1> 
     <h4>
       I'm a Full Stack Developer & Scrum Master from Argentina. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  <br> 
-      With over 4 years of experience, I specialize in developing innovative, scalable, and responsive applications using TypeScript, React, Node.js, PostgreSQL, and AWS.
+      With over 6 years of experience, I specialize in developing innovative, scalable, and responsive applications using TypeScript, React, Node.js, PostgreSQL, and AWS.
       <hr/> <br/>
       I consider myself an highly organized and efficient professional. I approach challenges methodically and always analyze the best possible ways to solve complex problems with clean code and modern web design principles.
     </h4>
